@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lucie3007
-- 👀 I’m interested in storytelling
-- 🌱 I’m currently learning programming in C#
+- 👀 I’m interested in storytelling.
+- 🌱 I’m currently learning how to program in C#.
 
 - ⚡ Fun fact: Grimms were not first. Charles Perrault was.
 
